@@ -1,1 +1,0 @@
-In this project, I performed some basic scripting in bash and awk within the Unix shell. I learned how to do things like parse a text file, perform mathematical operations, and format strings and arrays in these languages.
