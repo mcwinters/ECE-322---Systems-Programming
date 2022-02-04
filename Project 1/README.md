@@ -1,0 +1,1 @@
+In this project, I performed some basic scripting in bash and awk within the Unix shell. Each assignment had code that needed to be written in order to perform a certain task, like parse a resume, perform some mathematical operation, or format a number of strings properly.
