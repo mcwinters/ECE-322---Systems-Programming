@@ -1,2 +1,2 @@
-# ECE-325---Systems-Programming
-Software Projects from ECE 325 - Systems Programming
+# ECE-322---Systems-Programming
+Software Projects from ECE 322 - Systems Programming
